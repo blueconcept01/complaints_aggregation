@@ -38,4 +38,3 @@ Right now, the code assume the csv file to be mostly cleaned as in the correct c
 3. Storing the results into a NoSQL database since the results data could break RAM if the data is large enough 
 and number of companies, products, and years exceed millions.  (This is not the same as number of rows)
 There could be millions of products, millions of companies, and obviously up to 100 years.
-
