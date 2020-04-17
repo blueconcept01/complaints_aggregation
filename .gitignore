@@ -1,2 +1,5 @@
 venv
 .idea
+input/complaints.csv
+*.log
+expected_report.csv
