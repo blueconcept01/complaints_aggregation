@@ -4,11 +4,11 @@
 
 As specified, there are external dependancies for this project (nothing that needs to be pip installed).  You can run the parser by running the command:
 
-`python3 ./src/consumer_complaints.py ./input/complaints.csv ./output/report.csv`
+`python3.8 ./src/consumer_complaints.py ./input/complaints.csv ./output/report.csv`
 
 or the run.sh file that also just runs the command.
 
-Python 3.7.7 was used to be tested here.
+Python 3.8 was ysed
 
 # While running
 
